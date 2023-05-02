@@ -18,9 +18,8 @@ check out the website deploy on netlify using the link
 
 https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/
 
-![Screenshot (8)](https://user-images.githubusercontent.com/71362775/235447953-45746ab0-cfc2-4b42-a67f-cc800ec63278.png)
 
-
+![Screenshot (50)](https://user-images.githubusercontent.com/96405876/235646419-e8e8e647-dad3-4825-916c-e8b61c01637a.png)
 
 
 
