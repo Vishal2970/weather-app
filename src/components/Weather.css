@@ -1,0 +1,33 @@
+.main{
+    padding:5rem;
+}
+.container{
+
+    height:80%;
+    width:40%;
+    background-color: rgb(29, 27, 163);
+    margin:auto;
+    margin:auto;
+    color:white;
+    border-radius: 10px;
+    
+
+
+}
+.container input{
+
+      width:80%;
+      height:2rem;
+      border-radius: 20px;
+      margin-top: 30px;
+}
+.container h4{
+
+      margin-bottom: 100px;
+}
+@media screen and ( max-width:600px) {
+    .container{
+        width:80%;
+        height:70%;
+    }
+}
