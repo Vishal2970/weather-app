@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 check out the website deploy on netlify using the link
 
-https://644fa5ccba939e06afa9636a--incomparable-sunflower-5f8a1c.netlify.app/
+https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/71362775/235447953-45746ab0-cfc2-4b42-a67f-cc800ec63278.png)
 
