@@ -1,29 +1,29 @@
-# Getting Started with Create React App
+# Real-Time Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Weather App Screenshot](https://user-images.githubusercontent.com/96405876/235646419-e8e8e647-dad3-4825-916c-e8b61c01637a.png)
 
-## Available Scripts
+This is a real-time weather app created using React.js. You can access the app by clicking [here](https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/).
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This React.js application provides up-to-date weather information for various locations. Users can search for a city, and the app will display the current weather conditions, including temperature, humidity, and wind speed.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Real-time weather data from a reliable source.
+- Simple and intuitive user interface.
+- Accurate and detailed weather information.
+- Accessible from anywhere with an internet connection.
 
-check out the website deploy on netlify using the link
+## How to Use
 
-https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/
+1. Visit the app [here](https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/).
+2. Enter the name of a city in the search bar.
+3. Click the "Search" button to view the current weather and 5-day forecast for the specified city.
 
+## Technologies Used
 
-![Screenshot (50)](https://user-images.githubusercontent.com/96405876/235646419-e8e8e647-dad3-4825-916c-e8b61c01637a.png)
-
-
-
-
-
-
+- React.js
+- Node.js
+- Whether API
 
