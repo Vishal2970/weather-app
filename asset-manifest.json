@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vishal2970/weather-app.git/static/css/main.9186925e.css",
+    "main.js": "/Vishal2970/weather-app.git/static/js/main.a757d151.js",
+    "static/js/787.d9312eb8.chunk.js": "/Vishal2970/weather-app.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Vishal2970/weather-app.git/index.html",
+    "main.9186925e.css.map": "/Vishal2970/weather-app.git/static/css/main.9186925e.css.map",
+    "main.a757d151.js.map": "/Vishal2970/weather-app.git/static/js/main.a757d151.js.map",
+    "787.d9312eb8.chunk.js.map": "/Vishal2970/weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9186925e.css",
+    "static/js/main.a757d151.js"
+  ]
+}
