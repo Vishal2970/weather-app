@@ -6,7 +6,10 @@
   width:100%;
   height: 100vh;
   text-align: center;
-  background-color: aquamarine;
+  background-color: rgb(250, 243, 241);
 }
-
+.container-navigation{
+  margin: auto;
+  background-color: rgb(250, 243, 241);
+}
 
