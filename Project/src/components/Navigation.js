@@ -5,7 +5,7 @@ export default function Navigation() {
     <div>
       <nav className="navbar navbar-light">
         <div className="container-navigation">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/">
             <img
               src={process.env.PUBLIC_URL +"/weather_rain_snow_icon.png"}
               alt="Whether App"

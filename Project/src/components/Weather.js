@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Container, styled } from "@mui/material";
+import { Container} from "@mui/material";
 import "./Weather.css";
 import { MdLocationOn } from "react-icons/md";
 
 function Weather() {
   const [city, setCity] = useState(null);
-  const [search, setSearch] = useState("mumbai");
+  const [search, setSearch] = useState("Noida");
 
   useEffect(() => {
     const fetchApi = async () => {
