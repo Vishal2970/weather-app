@@ -17,7 +17,7 @@ This React.js application provides up-to-date weather information for various lo
 
 ## How to Use
 
-1. Visit the app [here](https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/).
+1. Visit the app [here](https://6450e5562afa3e7b736a80f0--velvety-hamster-469368.netlify.app/)==>>(https://velvety-hamster-469368.netlify.app/)
 2. Enter the name of a city in the search bar.
 3. Click the "Search" button to view the current weather and 5-day forecast for the specified city.
 
